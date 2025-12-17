@@ -1,3 +1,4 @@
+![2025-12-17_12-36-08](https://github.com/user-attachments/assets/93117c16-ee67-4887-9224-83212d41ae8c)
 # Joel Cottrell
 
 Enterprise Infrastructure | Virtualization | Active Directory | Microsoft 365 | Microsoft Intune | Microsoft Entra ID
