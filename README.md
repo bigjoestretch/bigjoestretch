@@ -2,7 +2,7 @@
 
 
 ---
-Enterprise Infrastructure | Virtualization | Active Directory | Microsoft 365 | Microsoft Intune | Microsoft Entra ID
+**Enterprise Infrastructure** | **Virtualization** | **Active Directory** | **Microsoft 365** | **Microsoft Intune** | **Microsoft Entra ID**
 
 ---
 
