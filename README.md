@@ -10,7 +10,7 @@
 
 ### 👋 About Me
 
-Systems Engineer with 20 years of experience working daily with the Microsoft stack and enterprise infrastructure. I build automation solutions that solve real-world IT challenges in healthcare environments.
+Systems Administrator/Engineer with 20 years of experience working daily with the Microsoft stack and enterprise infrastructure. I build automation solutions that solve real-world IT challenges in healthcare environments.
 
 These scripts aren't theoretical - they're battle-tested tools from actual production environments.
 
@@ -18,8 +18,8 @@ These scripts aren't theoretical - they're battle-tested tools from actual produ
 
 ### 🔧 Focus Areas
 
-- **Infrastructure & Virtualization** - VMware vSphere, PowerCLI, enterprise datacenter management
-- **Identity & Directory Services** - Active Directory, Microsoft Entra ID, domain services
+- **Infrastructure & Virtualization** - VMware vSphere, PowerCLI, Nutanix
+- **Identity & Directory Services** - Active Directory, Microsoft Entra ID, Domain Services
 - **Microsoft 365 Ecosystem** - Exchange Online, SharePoint, Teams, Intune
 - **Automation & Scripting** - PowerShell modules, enterprise automation, workflow optimization
 - **Windows Server** - Administration, deployment, certificate services
